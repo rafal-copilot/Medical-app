@@ -74,6 +74,13 @@ Uwagi dodatkowe
 - Brak testów automatycznych w repozytorium (jeśli chcesz, mogę dodać podstawowe testy jednostkowe).
 - Dostosuj wersję Node w zależności od środowiska CI/CD.
 
+Wersjonowanie
+---
+- **Wersja**: 1.0.0
+- **Data wydania**: 2026-06-19
+- **Status**: Initial Release
+- **Notatki**: Pierwsza wersja systemu zarządzania wizytami z funkcjonalnościami: dashboard, zarządzanie lekarzami, usługami i terminami
+
 Kontakt / Kolejne kroki
 ---
 Jeśli chcesz, mogę:
